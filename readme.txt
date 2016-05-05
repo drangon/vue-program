@@ -7,3 +7,5 @@ sorry
 hi
 city
 beijing
+nanjing
+shanghai
