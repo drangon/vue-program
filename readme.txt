@@ -7,6 +7,5 @@ sorry
 hi
 city
 beijing
-nanjing
-shanghai
-huangshan
+lijiang
+
