@@ -9,3 +9,4 @@ city
 beijing
 lijiang
 nanjing
+shanghai
